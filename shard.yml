@@ -1,6 +1,7 @@
 ---
 name: mocks
 version: 0.9.6
+crystal: '< 2.0.0'
 authors:
 - Oleksii Fedorov <waterlink000@gmail.com>
 license: MIT
